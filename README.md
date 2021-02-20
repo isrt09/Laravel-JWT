@@ -1,1 +1,1 @@
-# Laravel-JWT-
+# Laravel and JWT
